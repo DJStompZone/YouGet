@@ -60,7 +60,7 @@
     "axios": "^0.21.1",
     "clipboardy": "^1.2.3",
     "fluent-ffmpeg": "^2.1.2",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "node-notifier": "^8.0.1",
     "vue": "^2.3.3",
     "vue-electron": "^1.0.6",
